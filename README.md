@@ -28,7 +28,7 @@ Here are some results(from left to right are input, style and output):
 <img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/Content-Style%20Images/Van-Gogh.jpg?raw=true" width="25%" height="25%" align="center">
 <img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/More%20Results/Amber_Van-gogh_cosine_loss2_1000_total-var_4e-4.png?raw=true" width="25%" height="10%" align="right">
 </div>
-2. Amber-Love
+2. Amber-Love...............................................................................
 <br/><div align="center">
 <img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/Content-Style%20Images/Amber.png?raw=true" width="25%" height="25%" align="left">
 <img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/Content-Style%20Images/Love.png?raw=true" width="30%" height="15%" align="center">
