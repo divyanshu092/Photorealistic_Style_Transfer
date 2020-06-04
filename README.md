@@ -22,21 +22,25 @@ The implementation changes proposed in this work are:
 
 # Examples
 Here are some results(from left to right are input, style and output):
+1.
 <br/><div align="center">
 <img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/Content-Style%20Images/Amber.png?raw=true" width="31%" height="30%" align="left">
 <img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/Content-Style%20Images/Van-Gogh.jpg?raw=true" width="31%" height="30%" align="center">
 <img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/More%20Results/Amber_Van-gogh_cosine_loss2_1000_total-var_4e-4.png?raw=true" width="31%" height="30%" align="right">
 </div>
+2.
 <br/><div align="center">
 <img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/Content-Style%20Images/Amber.png?raw=true" width="31%" height="30%" align="left">
 <img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/Content-Style%20Images/Love.png?raw=true" width="31%" height="20%" align="center">
 <img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/More%20Results/Amber-love_all_adaptive.png?raw=true" width="31%" height="30%" align="right">
 </div>
+3.
 <br/><div align="center">
 <img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/More%20Results/Turtle.jpg?raw=true" width="31%" height="30%" align="left">
 <img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/Content-Style%20Images/Vassily.jpg?raw=true" width="31%" height="30%" align="center">
 <img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/More%20Results/Turtle-Vassily.png?raw=true" width="31%" height="30%" align="right">
 </div>
+4.
 <br/><div align="center">
 <img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/Content-Style%20Images/Vassily2.jpg?raw=true" width="31%" height="30%" align="left">
 <img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/Content-Style%20Images/Van-Gogh.jpg?raw=true" width="31%" height="30%" align="center">
