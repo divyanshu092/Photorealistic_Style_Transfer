@@ -29,7 +29,7 @@ Here are some results(from left to right are input, style and output):
 </div>
 <br/><div align="center">
 <img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/Content-Style%20Images/Amber.png?raw=true" width="31%" height="30%" align="left">
-<img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/Content-Style%20Images/Love.png?raw=true" width="31%" height="30%" align="center">
+<img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/Content-Style%20Images/Love.png?raw=true" width="31%" height="20%" align="center">
 <img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/More%20Results/Amber-love_all_adaptive.png?raw=true" width="31%" height="30%" align="right">
 </div>
 <br/><div align="center">
