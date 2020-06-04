@@ -13,41 +13,39 @@ The implementation changes proposed in this work are:
 5. In order to fasten the training process, I tried to use adaptive content to style weight ratio. (Task 5)
 
 # Folder details
-Artistic NST Images contains the results of the implementation of paper "[A Neural Algorithm of Artistic Style]"
-Content-Style Images contains all the images I have used for generating results of various combination of content and style.
-Content-Style Weight Ratio contains of results of Task 2.
-Loss Variations contains the results of Task 3.
-Single Layer Extraction contains the results of Task 1.
-Swapping Results folder contains swapping between various Artworks, Day-time Translation and FLower images.
+1. Artistic NST Images contains the results of the implementation of paper "[A Neural Algorithm of Artistic Style]"
+2. Content-Style Images contains all the images I have used for generating results of various combination of content and style.
+3. Content-Style Weight Ratio contains of results of Task 2.
+4. Loss Variations contains the results of Task 3.
+5. Single Layer Extraction contains the results of Task 1.
+6. Swapping Results folder contains swapping between various Artworks, Day-time Translation and FLower images.
 
 # Examples
 Here are some results(from left to right are input, style and output):
+<br/><div align="center">
+<img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/Content-Style%20Images/Amber.png?raw=true" width="31%" height="30%" align="left">
+<img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/Content-Style%20Images/Van-Gogh.jpg?raw=true" width="31%" height="30%" align="center">
+<img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/More%20Results/Amber_Van-gogh_cosine_loss2_1000_total-var_4e-4.png?raw=true" width="31%" height="30%" align="right">
+</div>
+
+<br/><div align="center">
+<img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/Content-Style%20Images/Amber.png?raw=true" width="31%" height="30%" align="left">
+<img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/Content-Style%20Images/Love.png?raw=true" width="31%" height="30%" align="center">
+<img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/More%20Results/Amber-love_all_adaptive.png?raw=true" width="31%" height="30%" align="right">
+</div>
+
 <br/><div align="center">
 <img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/More%20Results/Turtle.jpg?raw=true" width="31%" height="30%" align="left">
 <img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/Content-Style%20Images/Vassily.jpg?raw=true" width="31%" height="30%" align="center">
 <img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/More%20Results/Turtle-Vassily.png?raw=true" width="31%" height="30%" align="right">
 </div>
-<!-- <br/><div align="center">
-<img src="https://github.com/limingcv/Photorealistic-Style-Transfer/blob/master/supplementary_material/more_results/Church/content.png" width="31%" height="30%" align="left">
-<img src="https://github.com/limingcv/Photorealistic-Style-Transfer/blob/master/supplementary_material/more_results/Church/style.png" width="31%" height="30%" align="center">
-<img src="https://github.com/limingcv/Photorealistic-Style-Transfer/blob/master/supplementary_material/more_results/Church/output.png" width="31%" height="30%" align="right">
-</div>
+
 <br/><div align="center">
-<img src="https://github.com/limingcv/Photorealistic-Style-Transfer/blob/master/supplementary_material/more_results/Harbor/content.png" width="31%" height="30%" align="left">
-<img src="https://github.com/limingcv/Photorealistic-Style-Transfer/blob/master/supplementary_material/more_results/Harbor/style.png" width="31%" height="30%" align="center">
-<img src="https://github.com/limingcv/Photorealistic-Style-Transfer/blob/master/supplementary_material/more_results/Harbor/output.png" width="31%" height="30%" align="right">
+<img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/Content-Style%20Images/Vassily2.jpg?raw=true" width="31%" height="30%" align="left">
+<img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/Content-Style%20Images/Van-Gogh.jpg?raw=true" width="31%" height="30%" align="center">
+<img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/Swapping%20Results/Vassily2_to_Van-gogh.png?raw=true" width="31%" height="30%" align="right">
 </div>
-<br/><div align="center">
-<img src="https://github.com/limingcv/Photorealistic-Style-Transfer/blob/master/supplementary_material/more_results/Amber/content.png" width="31%" height="30%" align="left">
-<img src="https://github.com/limingcv/Photorealistic-Style-Transfer/blob/master/supplementary_material/more_results/Amber/style.png" width="31%" height="30%" align="center">
-<img src="https://github.com/limingcv/Photorealistic-Style-Transfer/blob/master/supplementary_material/more_results/Amber/output.png" width="31%" height="30%" align="right">
-</div>
-<br/><div align="center">
-<img src="https://github.com/limingcv/Photorealistic-Style-Transfer/blob/master/supplementary_material/more_results/Ocean/content.png" width="31%" height="30%" align="left">
-<img src="https://github.com/limingcv/Photorealistic-Style-Transfer/blob/master/supplementary_material/more_results/Ocean/style.png" width="31%" height="30%" align="center">
-<img src="https://github.com/limingcv/Photorealistic-Style-Transfer/blob/master/supplementary_material/more_results/Ocean/output.png" width="31%" height="30%" align="right">
-</div>
- -->
+
 <!-- 
 # Acknowledgement
 Our work is inspired by [Deep High-Resolution Representation Learning for Human Pose Estimation](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch).
