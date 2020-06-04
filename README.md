@@ -24,9 +24,9 @@ The implementation changes proposed in this work are:
 Here are some results(from left to right are input, style and output):
 1. Amber-Van-gogh
 <br/><div align="center">
-<img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/Content-Style%20Images/Amber.png?raw=true" width="25%" height="15%" align="left">
-<img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/Content-Style%20Images/Van-Gogh.jpg?raw=true" width="25%" height="25%" align="center">
-<img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/More%20Results/Amber_Van-gogh_cosine_loss2_1000_total-var_4e-4.png?raw=true" width="25%" height="15%" align="right">
+<img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/Content-Style%20Images/Amber.png?raw=true" width="31%" height="30%" align="left">
+<img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/Content-Style%20Images/Van-Gogh.jpg?raw=true" width="31%" height="30%" align="center">
+<img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/More%20Results/Amber_Van-gogh_cosine_loss2_1000_total-var_4e-4.png?raw=true" width="31%" height="30%" align="right">
 </div>
 <!-- 2. Amber-Love
 <br/><div align="center">
@@ -48,8 +48,8 @@ Here are some results(from left to right are input, style and output):
 <img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/Swapping%20Results/Vassily2_to_Van-gogh.png?raw=true" width="31%" height="30%" align="right">
 </div>
   -->
-  <!-- 
-# Acknowledgement
+  
+<!-- # Acknowledgement
 Our work is inspired by [Deep High-Resolution Representation Learning for Human Pose Estimation](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch).
 
 The transfer code is based on [Udacity](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/style-transfer).
