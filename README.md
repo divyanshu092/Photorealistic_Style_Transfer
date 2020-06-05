@@ -21,7 +21,7 @@ The implementation changes proposed in this work are:
 6. Swapping Results folder contains swapping between various Artworks, Day-time Translation and FLower images.
 
 # Examples
-Here are some results(from left to right are input, style and output):
+Here are some results(from left to right are content, style and output):
 <!-- 1. Amber-Van-gogh -->
 <br/><div align="center">
 <img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/README%20Images/Amber-Van-gogh.png?raw=true" width="90%" height="90%" align="center">
