@@ -1,6 +1,6 @@
 # High-Resolution Network for Photorealistic Style Transfer
 
-Code taken from paper "[High-Resolution Network for Photorealistic Style Transfer](https://arxiv.org/pdf/1904.11617.pdf)" and "[Author Implementation](https://github.com/limingcv/Photorealistic-Style-Transfer/tree/master)"
+Code taken from paper "[High-Resolution Network for Photorealistic Style Transfer](https://arxiv.org/pdf/1904.11617.pdf)" and [Author Implementation](https://github.com/limingcv/Photorealistic-Style-Transfer/tree/master)
 
 I have used Google Colab Environment for the implementation changes.
 
