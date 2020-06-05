@@ -17,8 +17,9 @@ The implementation changes proposed in this work are:
 2. Content-Style Images contains all the images I have used for generating results of various combination of content and style.
 3. Content-Style Weight Ratio contains of results of Task 2.
 4. Loss Variations contains the results of Task 3.
-5. Single Layer Extraction contains the results of Task 1.
-6. Swapping Results folder contains swapping between various Artworks, Day-time Translation and FLower images.
+5. More Results folder contains the results after the best combination of all Tasks on different content and style images.
+6. Single Layer Extraction contains the results of Task 1.
+7. Swapping Results folder contains swapping between various Artworks, Day-time Translation and FLower images.
 
 # Examples
 Here are some results(from left to right are content, style and output):
