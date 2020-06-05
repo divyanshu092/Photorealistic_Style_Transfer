@@ -24,16 +24,16 @@ The implementation changes proposed in this work are:
 Here are some results(from left to right are input, style and output):
 <!-- 1. Amber-Van-gogh -->
 <br/><div align="center">
-<img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/README%20Images/Amber-Van-gogh.png?raw=true" width="31%" height="30%" align="center">
+<img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/README%20Images/Amber-Van-gogh.png?raw=true" width="90%" height="90%" align="center">
 </div>
 <br/><div align="center">
-<img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/README%20Images/Amber-Love.png?raw=true" width="31%" height="30%" align="center">
+<img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/README%20Images/Amber-Love.png?raw=true" width="90%" height="90%" align="center">
 </div>
 <br/><div align="center">
-<img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/README%20Images/Turtle-Vassily.png?raw=true" width="31%" height="30%" align="center">
+<img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/README%20Images/Turtle-Vassily.png?raw=true" width="90%" height="90%" align="center">
 </div>
 <br/><div align="center">
-<img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/README%20Images/Vassily2-Van-gogh.png?raw=true" width="31%" height="30%" align="center">
+<img src="https://github.com/divyanshu092/Photorealistic_Style_Transfer/blob/master/README%20Images/Vassily2-Van-gogh.png?raw=true" width="90%" height="90%" align="center">
 </div>
 
 <!-- 
